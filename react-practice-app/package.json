@@ -2,7 +2,7 @@
   "name": "react-practice-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bxz5089/React-Github",
+  "homepage": "https://bxz5089.github.io/React-Github/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
